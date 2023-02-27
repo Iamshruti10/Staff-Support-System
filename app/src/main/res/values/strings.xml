@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">STAFF SUPPORT SYSTEM</string>
+    <string name="HOD_LOGIN"> HOD LOGIN </string>
+    <string name="STAFF_LOGIN"> STAFF LOGIN </string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206127352695",
+    "project_id": "staff-support-system",
+    "storage_bucket": "staff-support-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206127352695:android:049aa0e4e88c17d21e6f72",
+        "android_client_info": {
+          "package_name": "com.example.staffsupportsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206127352695-ep5vffbau8mrisu2b72gubr7ptr8q3ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqSrv9HtXaEPIkdgMDKbqA5Em_H8UexDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206127352695-ep5vffbau8mrisu2b72gubr7ptr8q3ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
